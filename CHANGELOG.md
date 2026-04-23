@@ -18,3 +18,5 @@
 - Detección y eliminación de outliers en velocidad registrada.
 - Creación de columnas de exceso de velocidad real y ajustado (5%).
 - Filtrado de registros sin infracciones.
+
+- Guardado del dataset limpio en `urban_flow/data/interim/speeding_fines.csv`.

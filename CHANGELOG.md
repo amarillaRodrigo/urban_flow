@@ -8,3 +8,13 @@
 ## Día 1 - Sprint 1 - Ejercicio 02
 #### Análisis del DataSet
 - Se analizaron los tipos de datos y la cantidad de valores nulos existentes en el DataSet.
+
+## Día 1 - Sprint 1 - Ejercicio 03 (Continuación)
+- Normalización de fechas (relleno con 1932-01-01).
+- Normalización de horas (formato 24hs, relleno con 00:00).
+- Limpieza de ubicaciones (mayúsculas y remoción de caracteres especiales).
+- Normalización de patentes (mayúsculas, remoción de caracteres y gestión de nulos con pd.NA).
+- Eliminación de registros con valores nulos en columnas relevantes.
+- Detección y eliminación de outliers en velocidad registrada.
+- Creación de columnas de exceso de velocidad real y ajustado (5%).
+- Filtrado de registros sin infracciones.

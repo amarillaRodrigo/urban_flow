@@ -20,3 +20,17 @@
 - Filtrado de registros sin infracciones.
 
 - Guardado del dataset limpio en `urban_flow/data/interim/speeding_fines.csv`.
+
+## Día 2 - Sprint 1 - Ejercicio 04
+- Creación de la clase `FineAnalyzer` para el análisis estadístico de 
+  infracciones de tránsito.
+- Implementación de encapsulamiento (`self.__df`) para proteger el 
+  DataFrame de datos limpios.
+- Desarrollo del método `top_patentes` para obtener el ranking top 5 
+  de las patentes más multadas.
+- Desarrollo del método `top_horarios` para obtener el ranking top 5 
+  de los horarios con más multas.
+- Creación de métodos para calcular el exceso de velocidad promedio y 
+  el exceso real promedio.
+- Implementación de `multas_por_ubicacion` para infracciones agrupadas 
+  y ordenadas alfabéticamente.

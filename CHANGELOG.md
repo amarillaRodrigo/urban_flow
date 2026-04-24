@@ -39,3 +39,39 @@
 - Cálculo del porcentaje de infracciones con hora desconocida (00:00).
 ## Día 4 - Sprint 1 - Ejercicio 07
 - Redacción de la conclusión del dataset en el archivo Readme.md.
+
+## Día 3 - Sprint 1 - Ejercicio 06
+
+### Objetivo
+
+Analizar datos de infracciones y representarlos con gráficos, exportando cada resultado en la carpeta correspondiente.
+
+### Introducción y contexto
+
+Se trabajó con datos de infracciones usando pandas y matplotlib. 
+Se generaron distintos gráficos: ranking de patentes reincidentes (fines.jpg), porcentaje por hora (hours.jpg), 
+infracciones por mes (months.jpg), y exceso de velocidad promedio por hora (hour.jpg) y por fecha (date.jpg).
+
+### Conclusión
+
+Se logró transformar los datos en visualizaciones claras que permiten entender mejor el comportamiento de las infracciones. 
+A partir de los gráficos, se pueden identificar patrones como los horarios con mayor actividad, los meses con más infracciones y tendencias en el exceso de velocidad. 
+Esto facilita el análisis y sirve como base para futuras mejoras o decisiones dentro del proyecto.
+
+## Día 4 - Sprint 1 - Ejercicio 06
+
+### Objetivo
+
+Analizar datos de infracciones y representarlos con gráficos, exportando cada resultado en la carpeta correspondiente.
+
+### Introducción y contexto
+
+Se trabajó con datos de infracciones usando pandas y matplotlib. 
+Se generaron distintos gráficos: ranking de patentes reincidentes (fines.jpg), porcentaje por hora (hours.jpg), 
+infracciones por mes (months.jpg), y exceso de velocidad promedio por hora (hour.jpg) y por fecha (date.jpg).
+
+### Conclusión
+
+Se logró transformar los datos en visualizaciones claras que permiten entender mejor el comportamiento de las infracciones. 
+A partir de los gráficos, se pueden identificar patrones como los horarios con mayor actividad, los meses con más infracciones y tendencias en el exceso de velocidad. 
+Esto facilita el análisis y sirve como base para futuras mejoras o decisiones dentro del proyecto.

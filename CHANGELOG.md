@@ -34,3 +34,6 @@
   el exceso real promedio.
 - Implementación de `multas_por_ubicacion` para infracciones agrupadas 
   y ordenadas alfabéticamente.
+## Día 3 - Sprint 1 - Ejercicio 06
+- Cálculo del porcentaje de infracciones con fecha desconocida (1932-01-01).
+- Cálculo del porcentaje de infracciones con hora desconocida (00:00).

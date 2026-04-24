@@ -37,3 +37,5 @@
 ## Día 3 - Sprint 1 - Ejercicio 06
 - Cálculo del porcentaje de infracciones con fecha desconocida (1932-01-01).
 - Cálculo del porcentaje de infracciones con hora desconocida (00:00).
+## Día 4 - Sprint 1 - Ejercicio 07
+- Redacción de la conclusión del dataset en el archivo Readme.md.

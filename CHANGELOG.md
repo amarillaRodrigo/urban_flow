@@ -44,3 +44,5 @@
 - Diseño de las clases con respecto al ejercicio 3
 - Creación de los objetos instanciando la clase Multa
 - Prueba de la función utilizando la primera línea del csv speeding_fines_imag.csv
+## Día 2 - Sprint 3 - Ejercicio 05
+- Diseño de la base relacional usando el ORM de SQLAlchemy

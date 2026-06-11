@@ -40,3 +40,7 @@
 - Identificación de atributos principales para cada entidad.
 - Modelado de relaciones entre las entidades según las reglas del dominio.
 - Se creo un campo de texto dentro del colab y tambien un archivo MD (Markdown), donde se muestra el modelo lógico.
+## Día 2 - Sprint 3 - Ejercicio 04
+- Diseño de las clases con respecto al ejercicio 3
+- Creación de los objetos instanciando la clase Multa
+- Prueba de la función utilizando la primera línea del csv speeding_fines_imag.csv
